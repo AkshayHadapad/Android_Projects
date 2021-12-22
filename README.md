@@ -9,7 +9,7 @@
 
 <h3 align="left">Screenshots:</h3>
 <p float="left">
-  <img src="https://i.postimg.cc/fTCC6wLP/Screenshot-20211222-163748-Newszen.jpg" width="150" />
-  <img src="https://i.postimg.cc/fTCC6wLP/Screenshot-20211222-163748-Newszen.jpgg" width="150" /> 
-  <img src="https://i.postimg.cc/fTCC6wLP/Screenshot-20211222-163748-Newszen.jpg" width="150" />
+  <img src="https://i.postimg.cc/fTCC6wLP/Screenshot-20211222-163748-Newszen.jpg" width="250" />
+  <img src="https://i.postimg.cc/rsF0WLkd/Screenshot-20211222-164029-Newszen.jpg" width="250" /> 
+  <img src="https://i.postimg.cc/9fRVzmN8/Screenshot-20211222-164209-Newszen.jpg" width="250" />
 </p>
