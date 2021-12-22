@@ -1,4 +1,4 @@
-#NewsZen
+# NewsZen 
 
 <h3 align="center">Android News Application</h3>
 
